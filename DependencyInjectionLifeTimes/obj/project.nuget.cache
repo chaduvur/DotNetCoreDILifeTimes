@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCXb2eVQOwbVnzxPB+SoJ9on5J6EBH70O/ToUcUAFgdkeWos032mKu1cSuyaRlejv3LDtAsNHxKYzx5MpKbamQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chaduvur\\source\\dnc\\DependencyInjectionLifeTimes\\DependencyInjectionLifeTimes\\DependencyInjectionLifeTimes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chaduvur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
